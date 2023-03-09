@@ -15,7 +15,9 @@ I am a:
 - ⌨ Favorite editor: Visual Studio Code
 - 🖥 Favorite language: Python
 
-
+<a href="https://github.com/naimuru/github-readme-stats">
+  <img alt="Nicolas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimuru&text_color=dfbf8e&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=282828&title_color=a9b665&icon_color=e3a84e" height="192px" align=right>
+  </a>
 
 <details close>
  <summary><h4>⚔ My favorite tools</h4></summary>
