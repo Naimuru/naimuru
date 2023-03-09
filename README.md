@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%23a9b665&size=22&center=false&vCenter=true&lines=Hi!%2C+I'm%2C+Nicolas Bello" alt="Neovim, Gruvbox, Golang">
+
 <!--
 **Naimuru/naimuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
