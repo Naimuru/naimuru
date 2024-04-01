@@ -13,7 +13,7 @@ I am a:
 #### 👉 About Me
 
 - ⌨ Favorite editor: Visual Studio Code
-- 🖥 Favorite language: Python
+- 🖥 Favorite language: Ruby on Rails
 
 <a href="https://github.com/naimuru/github-readme-stats">
   <img alt="Nicolas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimuru&text_color=dfbf8e&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=282828&title_color=a9b665&icon_color=e3a84e" height="192px" align=right>
@@ -26,17 +26,19 @@ I am a:
    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
    </p>
 </details>
 
 
 <img src="https://komarev.com/ghpvc/?username=naimuru&color=45707a&style=flat-square" alt="GitHub page views">
+
+- 🌱 I’m currently learning Go
+- 📫 How to reach me: ...
 <!--
 **Naimuru/naimuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
